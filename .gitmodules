@@ -1,0 +1,3 @@
+[submodule "child-sub-module-automation"]
+	path = child-sub-module-automation
+	url = https://github.com/DaniyalManzoor/child-sub-module-automation.git
